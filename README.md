@@ -7,8 +7,18 @@
 <div align="center">
 <h2>PROYECTO DE GRADO</h2> <br>  ✨It's a _special_ repository ✨ <br>  because it's a repository for the degree project on GitHub.
 </div>
+
+
 # Hey! 👋 I'm glad you're learning. #
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
+
+
+
+<p align="left">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
