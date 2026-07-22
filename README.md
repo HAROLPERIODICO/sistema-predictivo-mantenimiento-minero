@@ -19,6 +19,43 @@ Proyecto de grado — Especialización en Analítica y Ciencia de Datos, Escuela
 
 ---
 
+<p align="left">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</p>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
+
+  
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" alt="giphy">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div align=center>
+
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+
 ## 📝 Descripción del Proyecto
 
 Diseño e implementación de un sistema analítico predictivo, fundamentado en la metodología **CRISP-DM**, para el pronóstico de fallas y la optimización de la confiabilidad, disponibilidad y calidad del mantenimiento de equipos hidráulicos (21 palas hidráulicas Hitachi EX3600R) en una operación minera a cielo abierto del Caribe colombiano, bajo un contrato de Gestión de Activos a Riesgo Compartido (*MARC*).
