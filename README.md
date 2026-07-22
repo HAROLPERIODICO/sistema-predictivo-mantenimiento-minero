@@ -8,7 +8,13 @@
 <h2>PROYECTO DE GRADO</h2> <br>  ✨It's a _special_ repository ✨ <br>  because it's a repository for the degree project on GitHub.
 </div>
 
+<div align=center>
 
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pastryland2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/Youtubesvg.svg" alt="youtube" height="30" width="40" /></a>
+<a href="https://wa.me/573167543109" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/whatsappsvg.svg" alt="whatsapp" height="30" width="40" /></a>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
