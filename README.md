@@ -8,17 +8,6 @@
 <h2>PROYECTO DE GRADO</h2> <br>  ✨It's a _special_ repository ✨ <br>  because it's a repository for the degree project on GitHub.
 </div>
 
-# Sistema Analítico Predictivo para la Optimización de Indicadores de Mantenimiento de Equipos Hidráulicos en la Minería del Caribe Colombiano 🚜📊
-
-Proyecto de grado — Especialización en Analítica y Ciencia de Datos, Escuela de Ciencias Básicas, Tecnología e Ingeniería, UNAD (2026).
-
-**Autor:** Harol Enrique Díaz Meléndez  
-**Asesor:** Andrés Felipe Solis Pino  
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HAROLPERIODICO/sistema-predictivo-mantenimiento-minero/blob/main/codigo/ProyectoGrado_final.ipynb)
-
----
-
 <p align="left">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -47,14 +36,19 @@ Here are some ideas to get you started:
 
 
 
-  
-<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" alt="giphy">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align=center>
+# Sistema Analítico Predictivo para la Optimización de Indicadores de Mantenimiento de Equipos Hidráulicos en la Minería del Caribe Colombiano 🚜📊
 
-<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+Proyecto de grado — Especialización en Analítica y Ciencia de Datos, Escuela de Ciencias Básicas, Tecnología e Ingeniería, UNAD (2026).
+
+**Autor:** Harol Enrique Díaz Meléndez  
+**Asesor:** Andrés Felipe Solis Pino  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HAROLPERIODICO/sistema-predictivo-mantenimiento-minero/blob/main/codigo/ProyectoGrado_final.ipynb)
+
+---
+
 
 ## 📝 Descripción del Proyecto
 
