@@ -15,13 +15,6 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -35,7 +28,11 @@ Here are some ideas to get you started:
 
 
 
-
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pastryland2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/Youtubesvg.svg" alt="youtube" height="30" width="40" /></a>
+<a href="https://wa.me/573167543109" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/whatsappsvg.svg" alt="whatsapp" height="30" width="40" /></a>
+</div>
 
 
 # Sistema Analítico Predictivo para la Optimización de Indicadores de Mantenimiento de Equipos Hidráulicos en la Minería del Caribe Colombiano 🚜📊
