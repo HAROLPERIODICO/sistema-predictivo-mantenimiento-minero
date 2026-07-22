@@ -7,10 +7,13 @@
 <div align="center">
 <h2>PROYECTO DE GRADO</h2> <br>  ✨It's a _special_ repository ✨ <br>  because it's a repository for the degree project on GitHub.
 </div>
-
-<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" alt="giphy">
+# Hey! 👋 I'm glad you're learning. #
+[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
