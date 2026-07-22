@@ -1,3 +1,13 @@
+
+<div align=center>
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+      <p>Loading</p>
+</div>
+
+<div align="center">
+<h2>HPROYECTO DE GRADO</h2> <br>  ✨is a  _special_ ✨ repository because its ´README.md` <br> (this file) appears on your GitHub profile.
+</div>
+
 # Sistema Analítico Predictivo para la Optimización de Indicadores de Mantenimiento de Equipos Hidráulicos en la Minería del Caribe Colombiano 🚜📊
 
 Proyecto de grado — Especialización en Analítica y Ciencia de Datos, Escuela de Ciencias Básicas, Tecnología e Ingeniería, UNAD (2026).
