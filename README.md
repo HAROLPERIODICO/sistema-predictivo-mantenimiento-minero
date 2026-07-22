@@ -8,12 +8,6 @@
 <h2>PROYECTO DE GRADO</h2> <br>  ✨It's a _special_ repository ✨ <br>  because it's a repository for the degree project on GitHub.
 </div>
 
-<p align="left">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-</p>
-
-
 
 Here are some ideas to get you started:
 
@@ -28,11 +22,28 @@ Here are some ideas to get you started:
 
 
 
+
+  
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" alt="giphy">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div align=center>
+
 <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pastryland2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/Youtubesvg.svg" alt="youtube" height="30" width="40" /></a>
 <a href="https://wa.me/573167543109" target="blank"><img align="center" src="https://harolperiodico.github.io/web-HD-SOFTWARE-SOLUTIONS/img/whatsappsvg.svg" alt="whatsapp" height="30" width="40" /></a>
 </div>
+
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+
 
 
 # Sistema Analítico Predictivo para la Optimización de Indicadores de Mantenimiento de Equipos Hidráulicos en la Minería del Caribe Colombiano 🚜📊
