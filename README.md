@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<h2>PROYECTO DE GRADO</h2> <br>  ✨is a  _special_ ✨ repository because its ´README.md` <br> (this file) appears on your GitHub profile.
+<h2>PROYECTO DE GRADO</h2> <br>  ✨It's a _special_ repository ✨ because it's a repository for the degree project on GitHub. <br> (this file) appears on your GitHub profile.
 </div>
 
 # Sistema Analítico Predictivo para la Optimización de Indicadores de Mantenimiento de Equipos Hidráulicos en la Minería del Caribe Colombiano 🚜📊
